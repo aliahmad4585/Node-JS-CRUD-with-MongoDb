@@ -4,4 +4,5 @@ Basic User management using Node js , express js and mongodb. The project based 
 How to run a project
 1. got the git repo
 2. run npm install
-3. run npm start
+3. add mongodb connection string in config.env file
+4. run npm start
